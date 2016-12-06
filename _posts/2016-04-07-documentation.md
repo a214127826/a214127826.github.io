@@ -7,7 +7,7 @@ color: 212121
 author: webjeda
 ---
 
-* some text
+<!-- * some text
 {: toc}
 
 # Installation: 
@@ -57,4 +57,4 @@ MIT License
 # Change Log
 
 ### Version 0.8
-* Initial release with a responsive card-friendly layout.
+* Initial release with a responsive card-friendly layout. -->
