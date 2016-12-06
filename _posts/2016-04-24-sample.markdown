@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Sample post"
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas imperdiet magna quam, pulvinar vulputate odio rutrum at. Praesent quis lorem volutpat, interdum est quis, luctus ligula.
@@ -19,4 +19,4 @@ Mauris tincidunt ligula et erat ullamcorper varius. Nunc sit amet lacus ullamcor
 
 Nunc orci lorem, laoreet eget blandit nec, vestibulum eu urna. Ut gravida egestas massa, in auctor nisl iaculis id. In hac habitasse platea dictumst. Fusce nec massa ullamcorper, posuere nisl et, feugiat risus. Morbi metus risus, facilisis aliquam risus porta, volutpat viverra leo. 
 
-Praesent vestibulum, orci in consectetur aliquet, lacus metus suscipit risus, a dignissim eros nibh sed purus. Nullam in magna non nulla ultricies aliquam. Nullam malesuada rhoncus est, in vehicula lacus mattis vel. Nam et velit dignissim, consectetur est ac, imperdiet nulla. Nunc feugiat facilisis ipsum, quis porttitor quam mattis in.
+Praesent vestibulum, orci in consectetur aliquet, lacus metus suscipit risus, a dignissim eros nibh sed purus. Nullam in magna non nulla ultricies aliquam. Nullam malesuada rhoncus est, in vehicula lacus mattis vel. Nam et velit dignissim, consectetur est ac, imperdiet nulla. Nunc feugiat facilisis ipsum, quis porttitor quam mattis in. -->

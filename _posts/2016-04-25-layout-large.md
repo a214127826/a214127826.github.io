@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Large Layout"
 description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
@@ -27,4 +27,4 @@ The page width will be 1000px.
 
 <style>
 .page-container {max-width: 1000px}
-</style>
+</style> -->
